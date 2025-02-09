@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🔭 I’m currently learning 
 - 🌱 I’m Interested to work on Web 3.0
 - 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology & Finance
+- 💬 Ask me about Technology & Finance 
 - 📫 How to reach me: mohitanand8987@gmail.com
 - ⚡ Fun fact: Hue Hue
    
