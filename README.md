@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.github.com/ajcrush" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ajcrush?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajcrush&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22ajcrush" /> </p> 
-
+ 
 <p align="left"> <a href="https://twitter.com/MohitSh31934859" target="blank"><img src="https://img.shields.io/twitter/follow/mohitSharma?logo=twitter&style=for-the-badge" alt="Mohit" /></a> </p>
 
 <h3 align="left">Languages:</h3>
